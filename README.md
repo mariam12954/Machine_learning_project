@@ -1,4 +1,4 @@
-# Machine Learning Projects | From Fundamentals to Practical Decisions
+ Machine Learning Projects 
 
 During my learning journey in Machine Learning, I focused on building a strong foundation by truly understanding the data, the problem, and the behavior of different algorithms — instead of directly jumping into deep learning.
 
@@ -7,7 +7,7 @@ choosing the simplest effective model for each problem.
 
 ---
 
-## 🔹 1️⃣ Classification on Tabular Data
+🔹 1️⃣ Classification on Tabular Data
 
 I worked with real-world demographic and financial data (age, job, education, balance, loans, etc.) to solve a binary classification problem.
 
@@ -30,11 +30,11 @@ I worked with real-world demographic and financial data (age, job, education, ba
   - Classification Report
   - ROC-AUC
 
-👉 This project clearly demonstrated why accuracy alone is not a reliable metric when working with imbalanced datasets.
+ This project clearly demonstrated why accuracy alone is not a reliable metric when working with imbalanced datasets.
 
 ---
 
-## 🔹 2️⃣ Clustering (Unsupervised Learning)
+ 🔹 2️⃣ Clustering (Unsupervised Learning)
 
 To explore the data without labels and understand its structure, I implemented:
 
@@ -49,7 +49,7 @@ This comparison helped highlight how different clustering algorithms respond to:
 
 ---
 
-## 🔹 3️⃣ Bonus: Image Classification Without Deep Learning
+ 🔹 3️⃣ Bonus: Image Classification Without Deep Learning
 
 As a bonus project, I worked with the MNIST dataset, intentionally avoiding CNNs or deep learning models.
 
@@ -59,14 +59,14 @@ As a bonus project, I worked with the MNIST dataset, intentionally avoiding CNNs
 
 - A Logistic Regression model was trained as a simple and interpretable baseline for image classification.
 
-👉 The objective here was not achieving state-of-the-art accuracy, but understanding:
+The objective here was not achieving state-of-the-art accuracy, but understanding:
 
 - How classical machine learning models handle image data  
 - The importance of proper data representation and normalization
 
 ---
 
-## 🎯 Main Takeaway
+ Main Takeaway
 
 This work emphasizes that:
 
@@ -74,11 +74,11 @@ This work emphasizes that:
 - Well-prepared data can make simple models very effective  
 - Deep learning is powerful, but not always the first or necessary step
 
-📁 All projects are organized and available on GitHub, including preprocessing steps, model comparisons, and evaluation results.
+All projects are organized and available on GitHub, including preprocessing steps, model comparisons, and evaluation results.
 
 ---
 
-## 🙏 Acknowledgment
+ Acknowledgment
 
 I would like to sincerely thank my amazing team for their cooperation, support, and teamwork throughout this work.  
 Working with such a collaborative and motivated team made the learning experience more productive and enjoyable.
