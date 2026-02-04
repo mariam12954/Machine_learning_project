@@ -1,4 +1,4 @@
-# Machine Learning Projects
+ Machine Learning Projects
 
 This repository contains a collection of machine learning projects completed by the team to strengthen practical understanding of core ML concepts.  
 The focus of these projects was on understanding the data, selecting appropriate algorithms, and building effective models without unnecessary complexity.
@@ -7,7 +7,7 @@ Instead of directly using deep learning, the projects emphasize classical machin
 
 ---
 
-## Notebook 1: Binary Classification on Tabular Data
+Notebook 1: Binary Classification on Tabular Data
 
 The team worked on a binary classification problem using real-world supervised data containing financial and survey-based features such as age, job, education, balance, and loan status.
 
@@ -40,7 +40,7 @@ This notebook highlights why relying solely on accuracy is insufficient when eva
 
 ---
 
-## Notebook 2: Clustering (Unsupervised Learning)
+ Notebook 2: Clustering (Unsupervised Learning)
 
 The team explored the structure of the data without using labels by implementing two clustering algorithms:
 
@@ -52,7 +52,7 @@ The comparison revealed how clustering algorithms respond differently to data di
 
 ---
 
-## Notebook 3: Bonus – Image Classification Without Deep Learning
+Notebook 3: Bonus – Image Classification Without Deep Learning
 
 As an additional experiment, the team worked with the MNIST dataset while intentionally avoiding convolutional neural networks or deep learning models.
 
@@ -67,7 +67,7 @@ The focus was on interpretability and understanding how classical machine learni
 
 ---
 
-## Key Learnings
+ Key Learnings
 
 The team concluded that:
 - Model selection should be driven by the nature of the problem  
@@ -77,7 +77,7 @@ The team concluded that:
 
 ---
 
-## Repository Structure
+ Repository Structure
 
 Each notebook includes:
 - The dataset (or steps to load the data)  
@@ -87,7 +87,7 @@ Each notebook includes:
 
 ---
 
-## Acknowledgment
+ Acknowledgment
 
 Special thanks to the team members for their cooperation and support throughout these projects.  
 Their collaboration and feedback made the learning experience productive and enjoyable.
